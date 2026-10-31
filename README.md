@@ -28,8 +28,8 @@ All database queries, data transformations, and analytical views have been modul
 
 * **[Huda]** - Room, Meal & Revenue Operations
 
-  GitHub ()
-  LinkedIn ()
+  GitHub (https://github.com/Huda-Talaat)
+  LinkedIn (https://www.linkedin.com/in/huda-talaat-923922249)
   
 * **[Ghada Ibrahim Zaki Ibrahim]** - Power BI & Dashboard Analysis
   
