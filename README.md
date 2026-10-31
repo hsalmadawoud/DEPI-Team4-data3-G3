@@ -26,7 +26,7 @@ All database queries, data transformations, and analytical views have been modul
   GitHub (https://github.com/mazenahmedfarouk21-bit)
   LinkedIn (https://www.linkedin.com/in/mazen-ahmed-087b65182/?isSelfProfile=true)
 
-* **[Huda Talaat Ebied]** - Room, Meal & Revenue Operations
+* **[Huda Talaat Ebeid]** - Room, Meal & Revenue Operations
 
   GitHub (https://github.com/Huda-Talaat)
   LinkedIn (https://www.linkedin.com/in/huda-talaat-923922249)
